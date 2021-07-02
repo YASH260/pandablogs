@@ -263,7 +263,7 @@ body {
     .left{
         flex-direction: column-reverse;
     }
-    .text-small, .text-big, .button{
+    .text-big, .button{
         text-align: center;
     }
     .para{
